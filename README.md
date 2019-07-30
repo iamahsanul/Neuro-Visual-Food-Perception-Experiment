@@ -6,4 +6,4 @@ A matlab implementation of stimuli presentation from CROCUFID universal food ima
 
 # How to use
 - Downlaod the repository in your computer. 
-- Open the file 'a03_video_exp_presentation_stimuli.mlapp' in matlab app desigener and run it. Ready, steady, go!!
+- Open the file 'a03_video_exp_presentation_stimuli.mlapp' in matlab app desigener and run it. Here you go!!
